@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thiagorbnu. You can aslso call my by Thiago Rodrigues 
+- 👋 Hi, I’m @thiagorbnu. You can also call my by my name - Thiago Rodrigues 
 - 👀 I’m interested in better understand how git and mulesoft works.
 - 🌱 I’m currently learning mulesoft
 - 💞️ I’m looking to collaborate on mulesoft projects
